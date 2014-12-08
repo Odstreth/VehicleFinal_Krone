@@ -5,7 +5,6 @@ public class Truck extends Vehicle implements VehicleInterface{
 	public int getNumberOfAxels() {
 		return NumberOfAxels;
 	}
-
 	public void setNumberOfAxels(int numberOfAxels) {
 		NumberOfAxels = numberOfAxels;
 	}
